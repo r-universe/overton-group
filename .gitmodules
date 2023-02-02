@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "eHDPrep"]
+	path = eHDPrep
+	url = https://github.com/overton-group/ehdprep
+	shallow = true
+	registered = true
